@@ -2,3 +2,4 @@
 
   keras
   Xception
+  mobilenet v2
